@@ -10,6 +10,6 @@
 
 3. Мобильную версию сайта создавать не нужно.
 
-# [Посмотреть сайт]()
+# [Посмотреть сайт](https://drain777.github.io/html5_css_home_work7 /)
 
 # Скрин версии для планшета![Скрин](https://github.com/DRain777/html5_css_home_work7/blob/algoritm/результат_версия_планшет.png)
